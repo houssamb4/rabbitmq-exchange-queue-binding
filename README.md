@@ -1,1 +1,1 @@
-# rabbitmq-exchange-queue-binding
+# TP 29 : RabbitMQ (Management) avec Docker + Exchange/Queue/Binding + Publish/Consume
